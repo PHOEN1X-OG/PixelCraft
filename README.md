@@ -25,4 +25,4 @@ This project is an image processing web application that allows users to upload 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/PHOEN1X-OG/PixelCraft.git
