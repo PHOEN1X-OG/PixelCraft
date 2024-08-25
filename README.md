@@ -1,4 +1,4 @@
-# Image Processing Site
+# PixelCraft - Image Processing Site
 
 This project is an image processing web application that allows users to upload an image and edit various attributes using a simple and intuitive interface. Users can adjust brightness, exposure, saturation, contrast, and sharpness, and can also upscale their images with a single click.
 
